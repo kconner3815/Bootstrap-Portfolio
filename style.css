@@ -1,2 +1,20 @@
+/* over ride nav bar color */
+
+.bg-dark {
+    background-color: #93a591!important;
+}
+
+body {background-color: #cbc5a1;}
+
 footer { 
-	background: red;}
+	text-align:center; 
+	background: #93a591;
+	margin-top: 50px;
+	border-top: solid #4aaaa5;
+	
+}
+
+ul.nav.navbar-nav.navbar-right {
+	
+
+}
